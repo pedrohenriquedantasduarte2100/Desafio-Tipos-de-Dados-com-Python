@@ -1,1 +1,0 @@
-ID:101 - Paciente com Hipertensão severa. ID:103 - Quadro estável. ID:105 - Apresenta Hipertensão.
